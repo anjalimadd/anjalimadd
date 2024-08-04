@@ -11,20 +11,9 @@ Welcome to my GitHub profile! I'm Anjali Maddheshiya, a passionate frontend deve
 - Javacscript
 - Tailwind CSS
 
-### 👯 Collaboration Interests:
-- Open-source frontend projects
-- Innovative web applications
-
-### 💬 Ask me about:
-- Frontend development with React and Redux
-- Building reusable UI components
-
 ### 📫 Contact:
 - Email: [anjalimaddheshiya99@gmail.com](mailto:anjalimaddheshiya99@gmail.com)
 - LinkedIn: [Anjali Maddheshiya](https://www.linkedin.com/in/anjali-maddeshiya-986248183/)
-
-### 😄 Pronouns:
-- She/Her
 
 ### ⚡ Fun fact ...
 - I love exploring new technologies and am always up for a coding challenge. When I'm not coding, you can find me reading tech blogs or enjoying a good book.

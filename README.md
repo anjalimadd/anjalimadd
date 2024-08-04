@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**anjalimadd/anjalimadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Anjali Maddheshiya, a passionate frontend developer dedicated to creating intuitive and dynamic web applications.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects:
+- Enhancing skills in modern frontend frameworks and libraries.
+- Building responsive and accessible user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning:
+- React techniques
+- Javacscript
+- Tailwind CSS
+
+### 👯 Collaboration Interests:
+- Open-source frontend projects
+- Innovative web applications
+
+### 💬 Ask me about:
+- Frontend development with React and Redux
+- Building reusable UI components
+
+### 📫 Contact:
+- Email: [anjalimaddheshiya99@gmail.com](mailto:anjalimaddheshiya99@gmail.com)
+- LinkedIn: [Anjali Maddheshiya](https://www.linkedin.com/in/anjali-maddeshiya-986248183/)
+
+### 😄 Pronouns:
+- She/Her
+
+### ⚡ Fun fact ...
+- I love exploring new technologies and am always up for a coding challenge. When I'm not coding, you can find me reading tech blogs or enjoying a good book.
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or just say hi!
